@@ -1,3 +1,5 @@
+<img src="testing_css.svg" width="0" height="0">
+
 Zipped folder containing compiled file for Matrix 1.5-4 on a Windows 10 64 Bit PC.
 
 Created whilst running Seurat tutorial - issue @ https://github.com/satijalab/seurat/issues/6715#issuecomment-1329286660 
