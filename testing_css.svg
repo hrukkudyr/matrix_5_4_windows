@@ -37,9 +37,17 @@ h6:before {
 }
 	    h1{color:red}
 </style>
-	    
-	 # Main heading
-	    <h2>Numbered</h2>
+<h2>My First section</h2>
+	    <h3>The first part</h3>
+	    <div> yadda yadda </div>
+	    	    <h3>The second part</h3>
+	    <div> yadda yadda </div>
+<h2>My Second section</h2>
+	    <h3>The first part</h3>
+	    <div> yadda yadda </div>
+	    	    <h3>The second part</h3>
+	    <div> yadda yadda </div>
+	 
 ### Sub   
 </div>
 	</foreignObject>
