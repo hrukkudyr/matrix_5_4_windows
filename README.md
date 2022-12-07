@@ -1,5 +1,3 @@
-![alt text](testing_css.svg?)
-
 Zipped folder containing compiled file for Matrix 1.5-4 on a Windows 10 64 Bit PC.
 
 Created whilst running Seurat tutorial - issue @ https://github.com/satijalab/seurat/issues/6715#issuecomment-1329286660 
@@ -16,6 +14,8 @@ trying URL 'http://R-Forge.R-project.org/src/contrib/Matrix_1.5-4.tar.gz'
 Content type 'application/x-gzip' length 3776674 bytes (3.6 MB)
 downloaded 3.6 MB
 
+
+![alt text](testing_css.svg?)
 # Main heading
 ## Numbered
 ### Sub
