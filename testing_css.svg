@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 0 0" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
 body { counter-reset: h1counter h2counter h3counter h4counter h5counter h6counter; }
