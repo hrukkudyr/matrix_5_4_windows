@@ -14,8 +14,3 @@ trying URL 'http://R-Forge.R-project.org/src/contrib/Matrix_1.5-4.tar.gz'
 Content type 'application/x-gzip' length 3776674 bytes (3.6 MB)
 downloaded 3.6 MB
 
-
-![alt text](testing_css.svg?)
-# Main heading
-## Numbered
-### Sub
